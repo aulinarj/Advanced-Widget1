@@ -1,11 +1,10 @@
 # Advanced-Widget1
 
-######Nama : Aulina Roudlotul Jannah 
-######Kelas : XI RPL 5 
-######No absen : 05
-######NIS : 4679/1396.070
-######Nama Sekolah : SMK TELKOM Malang 
-
+## Nama : Aulina Roudlotul Jannah
+## Kelas  : XI RPL 5
+## No Absen : 05
+## Sekolah : SMK Telkom Malang 
+## NIS : 4679/1396.070
 <br>
 [![AW1_1.png](https://s21.postimg.org/6n0m971qv/AW1_1.png)](https://postimg.org/image/hmltkss5v/)
 <br>
